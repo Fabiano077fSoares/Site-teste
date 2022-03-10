@@ -1,0 +1,194 @@
+body{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#head{
+    color: #31735E;
+    text-align: center;
+}
+.texto-cadastro{
+    text-align: center;
+    
+}
+.formulário{
+    text-align: center;
+    border: #31735E;
+}
+
+.campo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 200px;
+    margin: auto;
+    border-radius: 15%;
+    border-color: rgba(117, 191, 216, 0.76);
+}
+
+.legend{
+    color: rgb(52, 119, 141);
+}
+
+.btn:hover{
+    background-color: rgb(52, 119, 141);
+}
+
+#rodape{
+    text-align: center;}
+
+.item2{
+  border: #31735E;
+}    
+
+.titulo2{
+    text-align: center;
+    color: rgb(117, 191, 216);  
+}
+
+.container{
+    background-color:rgba(150, 215, 236, 0.753);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item{
+ padding: 5px;
+ color: #31735E;
+ font-weight: bold;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.imghead{
+    width: 100%;
+    height: auto;
+    border: 1px solid rgb(117, 191, 216);
+    border-radius: 12px;
+}
+h3{
+    color: rgb(117, 191, 216);
+}
+.valores{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+#tenis{
+    color: #31735E;
+    font-size: 25px;
+    font: bold;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+#calcados{
+    color: #31735E;
+    font-size: 25px;
+    font: bold;
+    text-align: center;
+}
+#mocassins{
+    color: #31735E;
+    font-size: 25px;
+    font: bold;
+    text-align: center;
+}
+#artigosesportivos{
+    color: #31735E;
+    font-size: 25px;
+    font: bold;
+    text-align: center;
+}
+#artigos2{
+    color: #31735E;
+    font-size: 25px;
+    font: bold;
+    text-align: center;
+}
+.formattenis{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.formatcalçados{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.formatmocassin{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.formatartigo1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.formatartigo2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.imgtenis{
+    width: 400px;
+    border: 2px solid rgb(117, 191, 216);
+    border-radius: 25%;  
+}
+.calçados02{
+    width: 400px;
+    height: 400px;
+    border: 2px solid rgb(117, 191, 216);
+    border-radius: 25%;
+}
+.mocassin02{
+    width: 400px;
+    border: 2px solid rgb(117, 191, 216);
+    border-radius: 25%;
+}
+.artgespo{
+    width: 400px;
+    height: auto;
+    border: 2px solid rgb(117, 191, 216);
+    border-radius: 25%;
+    padding: 40px;
+}
+.artgespo2{
+    width: 400px;
+    height: auto;
+    border: 2px solid rgb(117, 191, 216);
+    border-radius: 25%;
+    padding: 20px;
+}
+.lista01{
+    text-align: center;
+    text-decoration: black;
+    color: black;
+    
+}
+.lista02{
+    text-align: center;
+    color: black;
+   
+}
+.lista03{
+    text-align: center;
+    color: black;
+}
+.lista04{
+    text-align: center;
+    color: black;
+}
+.mocassin01{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}

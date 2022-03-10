@@ -1,0 +1,2 @@
+<h2>Este é um site para testar os meus novos conhecimentos de desenvolvimento Web</h2>
+<p> Tentei desenvolver o site de maneira a utilizar tags semânticas e definir um layout agradável e responsivo, com base nos conhecimentos adquiridos.</p>
